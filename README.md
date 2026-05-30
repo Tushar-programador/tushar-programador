@@ -1,111 +1,123 @@
-<h1 align="center">Hey 👋, I'm Tushar Kalra</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer | AI Builder | System Design Enthusiast
-</h3>
+<h1 align="center">🚀 Tushar Kalra</h1>
 
 <p align="center">
-Building production-grade products, developer tools, AI systems, payment infrastructure and cloud applications.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Engineer+in+Progress;Building+Production-Grade+Systems;SaaS+Builder;System+Design+Enthusiast" />
 </p>
+
+<p align="center">
+Building AI products, cloud platforms, payment infrastructure, and developer tools.
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* 🤖 AI Engineering
+* 💳 Payment Gateway Infrastructure
+* 🎨 OUTDRAW (AI-Native Whiteboard)
+* ☁️ Cloud Application Platform
+* 📚 Advanced System Design
+* ⚡ DSA & Problem Solving
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently building advanced SaaS & AI products
-- 🌱 Learning AI Engineering, Distributed Systems & Cloud Infrastructure
-- ⚡ Passionate about Linux, Backend Systems and System Design
-- 💳 Interested in Payment Gateways, FinTech & Blockchain
-- 🎯 Goal: Build world-class software products used by millions
-- 🚀 Love solving real-world engineering problems
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+```js
+const tushar = {
+  role: "Full Stack Developer",
+  learning: [
+    "AI Engineering",
+    "Distributed Systems",
+    "Cloud Infrastructure"
+  ],
+  interests: [
+    "FinTech",
+    "System Design",
+    "Linux",
+    "Blockchain"
+  ],
+  goal: "Build products used by millions"
+};
+```
 
 ---
 
 ## 💻 Tech Stack
 
+### Languages
+
+[![Skills](https://skillicons.dev/icons?i=js,ts,cpp,python)](https://skillicons.dev)
+
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite)](https://skillicons.dev)
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
 
-### Databases
+### Database
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis)](https://skillicons.dev)
 
-### Cloud & DevOps
+### DevOps & Cloud
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx)](https://skillicons.dev)
-
-### Programming Languages
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,python)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,figma)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,figma)](https://skillicons.dev)
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-### 🔥 OUTDRAW
-AI-native collaborative whiteboard for engineers.
+### 🎨 OUTDRAW
+
+AI-native collaborative whiteboard built for engineers.
 
 Features:
-- Realtime collaboration
-- AI-powered workflows
-- Multiplayer architecture
-- Modern canvas engine
+
+* Realtime collaboration
+* Multiplayer architecture
+* AI workflows
+* Infinite canvas
 
 ---
 
 ### 💳 Payment Gateway Platform
 
-Building production-grade payment infrastructure with:
+Production-grade payment infrastructure.
 
-- Payment processing
-- Merchant onboarding
-- Fraud detection
-- Settlement engine
-- Banking integrations
+Features:
+
+* Merchant onboarding
+* Payment processing
+* Fraud detection
+* Settlement engine
+* Banking integrations
 
 ---
 
-### ⚡ Cloud Application Platform
+### ☁️ Cloud Application Platform
 
-Run applications directly from cloud infrastructure with centralized storage and execution.
+Run applications directly from cloud infrastructure.
+
+Features:
+
+* Centralized execution
+* Cloud storage
+* Secure environments
+* Cross-device access
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -113,7 +125,7 @@ Run applications directly from cloud infrastructure with centralized storage and
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=tushar-programador&theme=tokyonight"/>
 </p>
 
 ---
@@ -121,38 +133,46 @@ Run applications directly from cloud infrastructure with centralized storage and
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tushar-programador&theme=tokyonight&margin-w=15"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-programador&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Master AI Engineering
-- ✅ Build Startup-Level SaaS Products
-- ✅ Contribute to Open Source
-- ✅ Learn Advanced System Design
-- ✅ Launch Multiple Revenue Generating Products
-- ✅ Become Expert in Cloud Infrastructure
+* [ ] Master AI Engineering
+* [ ] Launch OUTDRAW
+* [ ] Build a Payment Gateway
+* [ ] Contribute to Open Source
+* [ ] Learn Advanced System Design
+* [ ] Build Multiple SaaS Products
 
 ---
 
-## 💡 Favorite Quote
+## 📚 Currently Learning
 
-> "Build things people want. Then scale them."
+* LLM Engineering
+* Agentic AI
+* Distributed Systems
+* Kubernetes
+* Payment Systems Architecture
+
+---
+
+## 💡 Quote
+
+> Build things people want. Then scale them.
 
 ---
 
 <p align="center">
-
-🚀 Building The Future One Project At A Time
-
+⚡ Building the Future One Project at a Time ⚡
 </p>
