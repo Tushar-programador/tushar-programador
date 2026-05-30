@@ -167,6 +167,13 @@ Features:
 
 ---
 
+## 🐍 Contribution 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tushar-programador/Tushar-programador/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+
 ## 💡 Quote
 
 > Build things people want. Then scale them.
