@@ -1,123 +1,111 @@
-<h1 align="center">🚀 Tushar Kalra</h1>
+# Hey, I'm Tushar Kalra 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Engineer+in+Progress;Building+Production-Grade+Systems;SaaS+Builder;System+Design+Enthusiast" />
-</p>
+### 🚀 Full Stack Developer | AI Engineer in Progress | SaaS Builder
 
-<p align="center">
-Building AI products, cloud platforms, payment infrastructure, and developer tools.
-</p>
-
----
-
-## 🎯 Current Focus
-
-* 🤖 AI Engineering
-* 💳 Payment Gateway Infrastructure
-* 🎨 OUTDRAW (AI-Native Whiteboard)
-* ☁️ Cloud Application Platform
-* 📚 Advanced System Design
-* ⚡ DSA & Problem Solving
+Building production-grade systems, AI products, payment infrastructure, and developer tools.
 
 ---
 
 ## 🧠 About Me
 
-```js
-const tushar = {
-  role: "Full Stack Developer",
-  learning: [
-    "AI Engineering",
-    "Distributed Systems",
-    "Cloud Infrastructure"
-  ],
-  interests: [
-    "FinTech",
-    "System Design",
-    "Linux",
-    "Blockchain"
-  ],
-  goal: "Build products used by millions"
-};
-```
+I'm a developer passionate about building ambitious products from scratch.
+
+Currently focused on:
+
+* 🤖 AI Engineering
+* 💳 Payment Gateway Infrastructure
+* 🎨 OUTDRAW (AI-Native Whiteboard)
+* ☁️ Cloud Platforms
+* ⚡ System Design
+* 📚 Data Structures & Algorithms
+
+I enjoy turning complex ideas into scalable software.
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-
-[![Skills](https://skillicons.dev/icons?i=js,ts,cpp,python)](https://skillicons.dev)
-
-### Frontend
-
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite)](https://skillicons.dev)
-
-### Backend
-
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
-
-### Database
-
-[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis)](https://skillicons.dev)
-
-### DevOps & Cloud
-
-[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx)](https://skillicons.dev)
-
-### Tools
-
-[![Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,figma)](https://skillicons.dev)
-
----
-
-## 🚀 Featured Projects
+## 🚀 What I'm Building
 
 ### 🎨 OUTDRAW
 
-AI-native collaborative whiteboard built for engineers.
+An AI-native collaborative whiteboard for engineers.
 
 Features:
 
-* Realtime collaboration
+* Real-time collaboration
+* AI-powered workflows
 * Multiplayer architecture
-* AI workflows
 * Infinite canvas
 
 ---
 
 ### 💳 Payment Gateway Platform
 
-Production-grade payment infrastructure.
+A production-grade payment infrastructure platform.
 
 Features:
 
 * Merchant onboarding
 * Payment processing
-* Fraud detection
 * Settlement engine
+* Fraud detection
 * Banking integrations
 
 ---
 
 ### ☁️ Cloud Application Platform
 
-Run applications directly from cloud infrastructure.
+Run applications directly from the cloud.
 
 Features:
 
 * Centralized execution
 * Cloud storage
-* Secure environments
 * Cross-device access
+* Secure environments
+
+---
+
+## 📚 Currently Learning
+
+* AI Engineering
+* LLM Systems
+* Agentic AI
+* Kubernetes
+* Distributed Systems
+* Advanced System Design
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Skills](https://skillicons.dev/icons?i=js,ts,cpp,python)
+
+### Frontend
+
+![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite)
+
+### Backend
+
+![Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)
+
+### Database
+
+![Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql)
+
+### DevOps
+
+![Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tushar-programador&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-programador&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -125,7 +113,7 @@ Features:
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=tushar-programador&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Tushar-programador&theme=tokyonight"/>
 </p>
 
 ---
@@ -133,53 +121,42 @@ Features:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tushar-programador&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tushar-programador&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-programador&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/Tushar-programador/Tushar-programador/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🎯 2026 Goals
 
-* [ ] Master AI Engineering
+* [ ] Become AI Engineer
 * [ ] Launch OUTDRAW
-* [ ] Build a Payment Gateway
-* [ ] Contribute to Open Source
+* [ ] Build Payment Gateway MVP
 * [ ] Learn Advanced System Design
+* [ ] Contribute to Open Source
 * [ ] Build Multiple SaaS Products
 
 ---
 
-## 📚 Currently Learning
+## 💡 Philosophy
 
-* LLM Engineering
-* Agentic AI
-* Distributed Systems
-* Kubernetes
-* Payment Systems Architecture
-
----
-
-## 🐍 Contribution 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tushar-programador/Tushar-programador/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-
-## 💡 Quote
-
-> Build things people want. Then scale them.
+> Build things people want.
+>
+> Learn in public.
+>
+> Ship consistently.
 
 ---
 
-<p align="center">
-⚡ Building the Future One Project at a Time ⚡
-</p>
+### Let's Connect
+
+* GitHub: https://github.com/Tushar-programador
+
+⚡ Building the future one project at a time.
