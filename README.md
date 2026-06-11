@@ -130,18 +130,10 @@ Features:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tushar-programador&theme=tokyonight&margin-w=15"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-programador&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-programador&theme=tokyo-night"/>
 </p>
 
 ---
