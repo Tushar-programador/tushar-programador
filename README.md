@@ -12,11 +12,10 @@ Building AI products, cloud platforms, payment infrastructure, and developer too
 
 ## 🎯 Current Focus
 
-* 🤖 AI Engineering
-* 💳 Payment Gateway Infrastructure
-* 🎨 OUTDRAW (AI-Native Whiteboard)
 * ☁️ Cloud Application Platform
 * 📚 Advanced System Design
+* 💳 Payment Gateway Infrastructure
+* 🎨 OUTDRAW (AI-Native Whiteboard)
 * ⚡ DSA & Problem Solving
 
 ---
