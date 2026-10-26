@@ -132,10 +132,7 @@ Features:
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-programador&theme=tokyo-night"/>
-</p>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-programador&theme=algolia)
 ---
 
 ## 🎯 2026 Goals
